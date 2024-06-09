@@ -1,5 +1,5 @@
 Instructions to run the project locally: 
-  Step 1: Open git cmd 
+  Step 1: Open git cmd
   Step 2: git clone "https://github.com/PriyankaSoni03/Uifry-Landing-Page.git"(run this command to clone the repo locally).
   Step 3: Make sure node.js is installed in your device.(to install node.js use this link: https://nodejs.org/en/download/package-manager)
   Step 4: npm run start(To run the site on a localhost run the command given)
